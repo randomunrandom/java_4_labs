@@ -1,0 +1,9 @@
+[submodule "java_4_lab01"]
+	path = java_4_lab01
+	url = https://github.com/randomunrandom/java_4_lab01
+[submodule "java_4_lab02"]
+	path = java_4_lab02
+	url = https://github.com/randomunrandom/java_4_lab02
+[submodule "java_4_lab03"]
+	path = java_4_lab03
+	url = https://github.com/randomunrandom/java_4_lab03
