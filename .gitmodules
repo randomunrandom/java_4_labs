@@ -7,3 +7,6 @@
 [submodule "java_4_lab03"]
 	path = java_4_lab03
 	url = https://github.com/randomunrandom/java_4_lab03
+[submodule "java_4_lab04"]
+	path = java_4_lab04
+	url = https://github.com/randomunrandom/java_4_lab04
