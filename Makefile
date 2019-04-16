@@ -1,4 +1,4 @@
 update:
-	git submodule update --recursive --remote
+	git submodule update --init --recursive --remote
 add:
 	@echo "git submodule add <link>"
