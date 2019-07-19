@@ -13,3 +13,21 @@
 [submodule "java_4_lab05"]
 	path = java_4_lab05
 	url = https://github.com/randomunrandom/java_4_lab05
+[submodule "java_4_lab06"]
+	path = java_4_lab06
+	url = https://github.com/randomunrandom/java_4_lab06
+[submodule "java_4_lab07"]
+	path = java_4_lab07
+	url = https://github.com/randomunrandom/java_4_lab07
+[submodule "java_4_lab08"]
+	path = java_4_lab08
+	url = https://github.com/randomunrandom/java_4_lab08
+[submodule "java_4_lab09"]
+	path = java_4_lab09
+	url = https://github.com/randomunrandom/java_4_lab09
+[submodule "java_4_lab10"]
+	path = java_4_lab10
+	url = https://github.com/randomunrandom/java_4_lab10
+[submodule "java_4_final"]
+	path = java_4_final
+	url = https://github.com/randomunrandom/java_4_final
